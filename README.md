@@ -1,5 +1,5 @@
-# Preparación Práctica
+# Preparación Práctica V2
 
-V1 del portal de preparación práctica, prevención y autonomía ante situaciones inesperadas.
+Versión de trabajo. Incluye home, guía 72 horas, test, selector de presupuesto con motor de recomendación, situaciones, necesidades, CSS responsive, robots y sitemap provisionales.
 
-El nombre y dominio son provisionales. La web se irá ampliando con contenidos, test, calculadoras, guías y recursos.
+Los enlaces de productos son marcadores: todavía no son enlaces de afiliado. Antes de monetizar se crearán las páginas legales y se conectarán los programas de afiliación.
