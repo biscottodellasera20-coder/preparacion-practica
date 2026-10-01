@@ -4,5 +4,8 @@ Incluye navegación clicable de Situaciones y Necesidades, páginas individuales
 No incluye todavía precios actuales ni enlaces de afiliación reales.
 
 
-## V2.2
+## V2.3
 Ajustes visuales y de usabilidad: menú alineado a la derecha en subpáginas, respuestas del test alineadas como tres opciones claras y variedad cromática muy sutil en las tarjetas de Situaciones y Necesidades.
+
+
+V2.3: ajuste del encabezado de las páginas interiores para que el botón de menú quede alineado a la derecha como en la portada.
