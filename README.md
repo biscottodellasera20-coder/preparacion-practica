@@ -1,5 +1,4 @@
-# Preparación Práctica V2
-
-Versión de trabajo. Incluye home, guía 72 horas, test, selector de presupuesto con motor de recomendación, situaciones, necesidades, CSS responsive, robots y sitemap provisionales.
-
-Los enlaces de productos son marcadores: todavía no son enlaces de afiliado. Antes de monetizar se crearán las páginas legales y se conectarán los programas de afiliación.
+# Preparación Práctica — V2.1
+Parte de la V2 validada en ordenador y móvil.
+Incluye navegación clicable de Situaciones y Necesidades, páginas individuales, test con prioridades, presupuesto orientado al test, menú móvil accesible y sitemap/robots actualizados.
+No incluye todavía precios actuales ni enlaces de afiliación reales.
