@@ -1,11 +1,23 @@
-# Preparación Práctica — V2.1
-Parte de la V2 validada en ordenador y móvil.
-Incluye navegación clicable de Situaciones y Necesidades, páginas individuales, test con prioridades, presupuesto orientado al test, menú móvil accesible y sitemap/robots actualizados.
-No incluye todavía precios actuales ni enlaces de afiliación reales.
+# Preparación Práctica — V3
 
+V3 mantiene V2.3 como base visual y añade una arquitectura más guiada.
 
-## V2.3
-Ajustes visuales y de usabilidad: menú alineado a la derecha en subpáginas, respuestas del test alineadas como tres opciones claras y variedad cromática muy sutil en las tarjetas de Situaciones y Necesidades.
+## Cambios principales
+- Nuevo recorrido principal: Empieza aquí → empieza sin gastar → 72 horas → test → adaptación.
+- Nueva página “Empieza hoy, sin gastar”.
+- Nuevo “Plan de hogar” imprimible/guardable como PDF desde el navegador.
+- Test convertido en herramienta de prioridades, no en una nota de “nivel”.
+- Necesidades reorganizadas: “Luz y energía” se trata como una sola necesidad.
+- Situaciones y Necesidades explican explícitamente su diferencia.
+- Presupuesto deja de ser una puerta comercial y se centra en priorizar.
+- Nueva sección de Mapas y orientación básica.
+- Enlaces a recursos oficiales: IGN, AEMET y SNCZI.
+- Nueva sección “Para ti” con perfiles de hogar.
+- Páginas iniciales de metodología, afiliación, privacidad, cookies y contacto.
+- Navegación interior unificada con el menú arriba a la derecha en móvil.
 
+## Importante
+Las páginas legales son una base inicial y deben completarse con los datos reales del titular, herramientas y servicios antes de la publicación comercial.
 
-V2.3: ajuste del encabezado de las páginas interiores para que el botón de menú quede alineado a la derecha como en la portada.
+## Despliegue
+Sube el contenido de esta carpeta al repositorio conectado a Cloudflare y haz commit. Conserva V2.3 como copia de seguridad.
