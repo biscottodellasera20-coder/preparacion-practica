@@ -53,3 +53,12 @@ Sube el contenido de esta carpeta al repositorio conectado a Cloudflare y haz co
 - Página 404 amigable y conectada con el recorrido principal.
 - Se mantiene el sitio sin analítica, publicidad ni enlaces de afiliación activos.
 - Las páginas legales siguen siendo provisionales hasta completar los datos reales del titular y los servicios utilizados.
+
+
+## V3.7 — contenido y primera capa comercial
+- Nueva sección Productos con criterios editoriales antes de la compra.
+- Nueva página “Qué tener preparado para un apagón”.
+- No se activan todavía enlaces de afiliación concretos.
+- Incorporados los PDFs Checklist 72 horas y Plan de preparación del hogar para descarga desde la web.
+- Navegación principal actualizada con Productos.
+- Sitemap ampliado.
