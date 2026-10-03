@@ -1,3 +1,8 @@
+## V4.1
+Monetización editorial activa: enlaces de búsqueda de Amazon.es con tag `preparacionpr-21`, divulgación cercana a los enlaces, nueva página de criterios de selección y sitemap actualizado. Decathlon/Awin queda pendiente de aprobación del programa concreto.
+
+V4.0 — base comercial ampliada.
+
 # Preparación Práctica — V3
 
 V3 mantiene V2.3 como base visual y añade una arquitectura más guiada.
@@ -78,3 +83,7 @@ Sube el contenido de esta carpeta al repositorio conectado a Cloudflare y haz co
 - No se incluyen todavía productos concretos ni enlaces de afiliación activos.
 - Sitemap ampliado con las nuevas páginas comerciales.
 - Preparado para incorporar programas aprobados sin rehacer la arquitectura.
+
+
+## V4.0
+Guías de productos para agua, mochilas/bolsas y pilas. Incluye hoja interna de planificación de monetización. No se activan enlaces afiliados hasta la aprobación y configuración de Amazon/Awin.
