@@ -62,3 +62,19 @@ Sube el contenido de esta carpeta al repositorio conectado a Cloudflare y haz co
 - Incorporados los PDFs Checklist 72 horas y Plan de preparación del hogar para descarga desde la web.
 - Navegación principal actualizada con Productos.
 - Sitemap ampliado.
+
+## V3.8 — afiliación y marco legal
+- Añadido aviso-legal.html con plantilla de datos del titular.
+- Ampliadas Afiliación, Privacidad, Cookies y Contacto.
+- Añadidas instrucciones operativas para Amazon Afiliados y Awin.
+- Añadido documento INSTRUCCIONES_AFILIACION_Y_LEGAL_V38.md.
+- Se mantiene la afiliación concreta desactivada hasta contar con aprobación de programas y datos legales reales.
+- Corregido enlace duplicado de Productos en la navegación de portada.
+
+
+## V3.9 — capa comercial preparada
+- Añadidas guías de selección para linternas, powerbanks y radios.
+- Productos mantiene enfoque editorial: necesidad → características → comparación → compra.
+- No se incluyen todavía productos concretos ni enlaces de afiliación activos.
+- Sitemap ampliado con las nuevas páginas comerciales.
+- Preparado para incorporar programas aprobados sin rehacer la arquitectura.
