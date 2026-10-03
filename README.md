@@ -93,3 +93,7 @@ Guías de productos para agua, mochilas/bolsas y pilas. Incluye hoja interna de 
 - Añadidas comparativas prácticas de powerbanks y radios.
 - Corregida la información de afiliación en Productos para reflejar los enlaces activos.
 - Reforzados los enlaces internos entre guías, comparativas y productos para apagones.
+
+
+## V4.5
+Añadidas guía de compra ante apagón y lista de compra básica, con enlaces internos y afiliación Amazon.es usando el Store ID configurado.
