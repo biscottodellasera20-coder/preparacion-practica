@@ -87,3 +87,9 @@ Sube el contenido de esta carpeta al repositorio conectado a Cloudflare y haz co
 
 ## V4.0
 Guías de productos para agua, mochilas/bolsas y pilas. Incluye hoja interna de planificación de monetización. No se activan enlaces afiliados hasta la aprobación y configuración de Amazon/Awin.
+
+
+## V4.3
+- Añadidas comparativas prácticas de powerbanks y radios.
+- Corregida la información de afiliación en Productos para reflejar los enlaces activos.
+- Reforzados los enlaces internos entre guías, comparativas y productos para apagones.
