@@ -21,3 +21,26 @@ Las páginas legales son una base inicial y deben completarse con los datos real
 
 ## Despliegue
 Sube el contenido de esta carpeta al repositorio conectado a Cloudflare y haz commit. Conserva V2.3 como copia de seguridad.
+
+
+## V3.2
+- Contenido ampliado para Apagón, Lluvias, Inundación, Tormentas, Calor y Frío.
+- Revisión visual de tarjetas de Mapas para integrarlas con el resto del sistema.
+- Fuentes oficiales y revisión octubre de 2026.
+
+
+## V3.4 — bloque de necesidades y 72 horas
+
+- Revisión y ampliación de las 10 páginas de Necesidades.
+- Revisión completa de la guía 72 horas.
+- Refuerzo de enlaces oficiales en Mapas.
+- Mantener España como ámbito principal.
+- Revisión editorial: octubre de 2026.
+
+
+## V3.5
+- Añadidas calculadora de agua y checklist imprimible de 72 horas.
+- Plan del hogar puede guardar datos localmente en el navegador; no se envían al servidor.
+- Añadidas URL canónicas y migas de pan básicas.
+- Inicio actualizado para mostrar las herramientas principales.
+- Sitemap regenerado.
