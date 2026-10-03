@@ -97,3 +97,11 @@ Guías de productos para agua, mochilas/bolsas y pilas. Incluye hoja interna de 
 
 ## V4.5
 Añadidas guía de compra ante apagón y lista de compra básica, con enlaces internos y afiliación Amazon.es usando el Store ID configurado.
+
+
+## V4.7 — contenido SEO útil
+- Añadidas páginas de intención informativa sobre apagones y mochila de emergencia.
+- Reforzados enlaces internos desde portada.
+- Añadidas fuentes oficiales y fecha de revisión en las nuevas páginas.
+- Sitemap ampliado.
+- Sin nuevos scripts de analítica ni cookies de terceros.
