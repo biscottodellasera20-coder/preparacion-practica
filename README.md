@@ -44,3 +44,12 @@ Sube el contenido de esta carpeta al repositorio conectado a Cloudflare y haz co
 - Añadidas URL canónicas y migas de pan básicas.
 - Inicio actualizado para mostrar las herramientas principales.
 - Sitemap regenerado.
+
+
+## V3.6 — preparación técnica para pre-lanzamiento
+- Metadatos Open Graph y Twitter Card básicos en las páginas HTML.
+- URL canónica consistente en todas las páginas.
+- Datos estructurados WebSite en la portada, sin inventar identidad del titular.
+- Página 404 amigable y conectada con el recorrido principal.
+- Se mantiene el sitio sin analítica, publicidad ni enlaces de afiliación activos.
+- Las páginas legales siguen siendo provisionales hasta completar los datos reales del titular y los servicios utilizados.
