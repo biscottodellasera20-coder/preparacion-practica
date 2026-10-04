@@ -107,3 +107,10 @@ Añadidas guía de compra ante apagón y lista de compra básica, con enlaces in
 - Añadidas fuentes oficiales y fecha de revisión en las nuevas páginas.
 - Sitemap ampliado.
 - Sin nuevos scripts de analítica ni cookies de terceros.
+
+
+## V4.11 — enlazado interno y SEO técnico
+- Refuerzo de enlaces contextuales entre guías relacionadas.
+- Enlaces Amazon con atributo `sponsored`.
+- Sitemap con `lastmod` en páginas modificadas.
+- Sin nuevos productos, precios o stock inventados.
