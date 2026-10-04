@@ -1,3 +1,5 @@
+V4.10 — actualización 2026-10-05
+
 ## V4.1
 Monetización editorial activa: enlaces de búsqueda de Amazon.es con tag `preparacionpr-21`, divulgación cercana a los enlaces, nueva página de criterios de selección y sitemap actualizado. Decathlon/Awin queda pendiente de aprobación del programa concreto.
 
